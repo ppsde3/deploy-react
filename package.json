@@ -1,8 +1,8 @@
 {
-  "name": "to-do",
+  "name": "deploy-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ppsde3.github.io/to-do",
+  "homepage": "http://ppsde3.github.io/deploy-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
